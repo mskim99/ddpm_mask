@@ -1,0 +1,2 @@
+train_BK : TTE_image_cond_label_res_128_lr_5e_5
+train2_BK : TTE_label_res_64_depth_128_batch_2_lr_1e_5
